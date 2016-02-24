@@ -42,10 +42,13 @@ a {
 }
 
 .send-message {
-  width: 700px;
+  width: 800px;
+  height: 30px;
+  font-size: 20px;
   margin-bottom: 1em;
   margin-right: 1em;
 }
+
 .send-message:active, .send-message:focus {
   outline: none;
 }
